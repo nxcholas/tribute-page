@@ -1,0 +1,52 @@
+body{
+    font-family: 'Arial';
+    font-size: 17px;
+  }
+  
+  header{
+    text-align: center;
+  }
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  
+  #img-caption{
+    text-align: center;
+  }
+  
+  #title2{
+    text-align: center;
+    margin: 50px;
+  }
+  
+  #tribute-info{
+    max-width: 40%;
+    margin: 0 auto;
+  }
+  
+  li{
+    padding: 10px;
+  }
+  
+  span{
+    font-weight: bold;
+  }
+  
+  #quote{
+    max-width: 38%;
+    margin: 0 auto;
+    font-style: italic;
+  }
+  
+  footer{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20;
+    margin: 50px 0;
+  }
